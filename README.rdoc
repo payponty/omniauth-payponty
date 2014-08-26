@@ -1,0 +1,6 @@
+= omniauth-payponty
+
+It is mini lib for work with omniauth in payponty.com
+
+
+
